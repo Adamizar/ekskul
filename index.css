@@ -13,7 +13,7 @@ body, html {
     height: 100%; /* Menetapkan tinggi halaman agar bisa mengisi seluruh viewport */
     margin: 0;
     padding: 0;
-    background-image: url("assets/images/Home\ \(6\).png");
+    background-image: url("assets/images/Home (4).png");
     background-size:auto; /* Mengatur ukuran gambar latar belakang agar menutupi seluruh area yang tersedia */
     background-position: center; /* Menempatkan gambar latar belakang di tengah-tengah halaman */
     background-repeat: repeat; /* Mencegah gambar latar belakang diulang */
@@ -84,7 +84,7 @@ body, html {
 
 .text {
     width: 50%; /* Adjust width as needed */
-    background-color: #1D3589;
+    background-color: #2B1B4D;
     padding: 20px;
     overflow: hidden; /* Hide overflow content */
     margin-left: 85px;
